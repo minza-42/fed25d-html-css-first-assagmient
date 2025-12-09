@@ -2,4 +2,3 @@
 
 - Minai Karlsson
 - Oscar Holmblad
-- Wael Eid
