@@ -1,5 +1,5 @@
 # First Group assagmient
 
-Minai Karlsson
-Oscar Holmblad
-Wael Eid
+- Minai Karlsson
+- Oscar Holmblad
+- Wael Eid
